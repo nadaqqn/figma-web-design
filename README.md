@@ -1,41 +1,82 @@
-# figma-web-design
-Figma Web Design - Smartphone Brand Landing Page
+# 📱 Figma Web Design – Smartphone Brand Landing Page
 
-Ini adalah project desain UI menggunakan **Figma** untuk sebuah **dummy landing page website brand smartphone**. Desain ini mencakup berbagai halaman utama dan fitur interaktif untuk simulasi pengalaman pengguna yang modern dan informatif.
+Welcome to the **Figma Web Design Project** – a concept landing page for a fictional smartphone brand. Designed with care using **Figma**, this UI project delivers a clean, modern, and interactive user experience for showcasing smartphone products. 🎨📱
 
-## 📁 File
-- `Figma Phone Web.fig` → File desain utama dalam format `.fig` dari Figma
+---
 
-## 🖥️ Halaman Desain
+## 🖼️ Project Overview
 
-### 1. **Register Page**
-- Formulir pendaftaran untuk membuat akun pengguna baru.
+This project is a **UI/UX simulation** for a smartphone e-commerce website.  
+It includes multiple pages with cohesive branding, consistent layouts, and functional flows – perfect for prototyping, testing, or pitching ideas! 🚀
 
-### 2. **Home Page**
-- Menampilkan produk **Best Sellers**
-- Bagian **Mengapa Memilih Brand Kami**
+---
 
-### 3. **About Us Page**
-- Cerita tentang brand
-- Visi dan misi
-- Profil tim kami
-- Kontak (Contact Us)
+## 📁 Files
 
-### 4. **Product Page**
-- Daftar produk smartphone yang tersedia
-- Fitur **Add to Cart** (tambah ke keranjang)
+- `📄 Figma Phone Web.fig` – The main design file (Figma format)
 
-### 5. **Promotion Page**
-- Informasi **Flash Sale**
-- Promosi terkini
-- Cara **redeem promotion**
-- Halaman **FAQ** (Frequently Asked Questions)
+---
 
-## 🎯 Tujuan Desain
-- Memberikan simulasi landing page yang profesional dan menarik untuk brand smartphone.
-- Menyediakan alur desain yang user-friendly dan responsive.
+## 🧭 Pages Included
 
-## 🔗 Link Prototipe Figma
-https://www.figma.com/design/mNFkYNuGdHcBiQWADTpseM/Figma-V-Phone-Web?node-id=417-725&m=dev&t=gf6uKr8vNwmN7JF3-1
+### 1. 📝 **Register Page**
+- Simple and elegant user registration form.
 
+### 2. 🏠 **Home Page**
+- Showcases **Best Seller smartphones** 📲  
+- Section: **Why Choose Our Brand** 💎
 
+### 3. 👥 **About Us Page**
+- Tells the brand story  
+- Shares vision and mission 🎯  
+- Team member profiles 🤝  
+- **Contact Us** section 📩
+
+### 4. 📦 **Product Page**
+- Displays a list of smartphone products  
+- Includes **Add to Cart** functionality simulation 🛒
+
+### 5. 🎉 **Promotion Page**
+- Highlights ongoing **Flash Sales** ⚡  
+- Current promotions and how to redeem them  
+- Includes an **FAQ** section to address common user questions ❓
+
+---
+
+## 🎯 Design Goals
+
+- ✨ Present a professional and attractive landing page concept  
+- 🤖 Simulate a modern e-commerce experience  
+- 📱 Ensure the design is **responsive** and **user-friendly**  
+- 🔄 Provide clean navigation flows and CTA structure
+
+---
+
+## 🔗 Figma Prototype
+
+👉 [View the live prototype here](https://www.figma.com/design/mNFkYNuGdHcBiQWADTpseM/Figma-V-Phone-Web?node-id=417-725&m=dev&t=gf6uKr8vNwmN7JF3-1)
+
+Feel free to duplicate or inspect the design!
+
+---
+
+## ✨ Preview Snapshot
+
+![Landing Page Preview](figma-smartphone-landing-page-register.png)
+![Landing Page Preview](figma-smartphone-landing-page-home.png)
+![Landing Page Preview](figma-smartphone-landing-page-about.png)
+![Landing Page Preview](figma-smartphone-landing-page-product.png)
+![Landing Page Preview](figma-smartphone-landing-page-promotion.png)
+
+## 🤝 Let's Connect!
+
+Questions, ideas, or feedback? Feel free to reach out!
+
+- 💌 Linktr.ee: https://linktr.ee/qonitaqq
+---
+
+> *“Design is the silent ambassador of your brand.”* – Paul Rand 🖌️
+> 
+---
+
+Thanks for visiting! Don’t forget to ⭐️ the repo if you find it useful!
